@@ -1,0 +1,7 @@
+{
+  "large3_dev_mse": 0.721292806721296,
+  "large3_test_mse": 0.600355960729781,
+  "best_mix_dev_mse": 0.720133734994831,
+  "best_mix_large_weight": 0.9500000000000001,
+  "best_mix_test_mse": 0.5947633348449852
+}

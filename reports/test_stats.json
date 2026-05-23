@@ -1,0 +1,19 @@
+﻿{
+  "rows": 180,
+  "first_id": "nikluge-2022-nli-test-000001",
+  "last_id": "nikluge-2022-nli-test-000236",
+  "context_chars": {
+    "min": 46.0,
+    "mean": 163.7888888888889,
+    "median": 155.0,
+    "max": 397.0,
+    "pstdev": 65.08643730446194
+  },
+  "prompt_chars": {
+    "min": 7.0,
+    "mean": 32.50555555555555,
+    "median": 31.0,
+    "max": 73.0,
+    "pstdev": 13.124403572574353
+  }
+}

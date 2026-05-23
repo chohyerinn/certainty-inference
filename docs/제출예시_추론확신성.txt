@@ -1,0 +1,4 @@
+{id": 문제id(str), "input": {"context": 문자열, "prompt": 문자열} (dict), "output": 1~7사이 실수(float)}
+{id": 문제id(str), "input": {"context": 문자열, "prompt": 문자열} (dict), "output": 1~7사이 실수(float)}
+{id": 문제id(str), "input": {"context": 문자열, "prompt": 문자열} (dict), "output": 1~7사이 실수(float)}
+...
