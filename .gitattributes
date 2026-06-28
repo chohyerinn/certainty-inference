@@ -5,3 +5,11 @@
 *.md text eol=lf
 *.txt text eol=lf
 *.pdf binary
+
+# Linguist: GPU 실험 실행용 쉘 스크립트를 언어 통계에서 제외
+# (scripts/*.sh가 레포를 Shell 53.8%로 잡아 ML(Python) 프로젝트를 가림)
+*.sh linguist-vendored
+scripts/*.sh linguist-vendored
+
+# 데이터/제출 파일도 언어 통계에서 제외해 Python이 대표 언어로 보이게
+*.jsonl linguist-generated
